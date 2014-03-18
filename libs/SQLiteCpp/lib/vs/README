@@ -1,0 +1,5 @@
+libs compiled for visual studio 2012
+
+You will need to copy the sqlite3.dll into your application folder next to the .exe
+
+If you use the project generator the libs should link.
